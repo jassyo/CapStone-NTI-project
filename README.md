@@ -78,18 +78,20 @@ Insights:
  - Yangon: Records the highest sales volume across all branches.
 Insight: Prioritize investment in Yangon to maintain its top performance. 
 ________________________________________
-4. Recommendations:
-1.	Branch-Specific Strategies:
-o	Mandalay: Launch promotional campaigns targeting key demographics to increase foot traffic and sales.
-o	Yangon: Continue to maintain and grow sales in top product lines while promoting less popular categories like Health and beauty.
-o	Naypyitaw: Introduce new product lines or promote offerings to stimulate growth.
-2.	Targeted Marketing Campaigns:
-o	Use gender-based marketing to promote Electronic Accessories to men and Fashion Accessories to women.
-o	Launch member loyalty programs to incentivize repeat purchases and higher transaction values.
-3.	Improve Customer Satisfaction:
-o	Further promote Ewallet payments due to its positive impact on customer satisfaction.
-o	Address lower-rated experiences in certain branches by providing more staff during peak hours to improve customer service.
-4.	Time-Based Promotions:
-o	Implement weekend-specific promotions and lunchtime offers to capitalize on peak sales hours.
-o	Offer discounts during weekday lulls to drive traffic and even out sales fluctuations.
-o	Bundling offers for underperforming products or discount it to improve sales and ATV. 
+### 4. Recommendations:
+#### 1.	Branch-Specific Strategies:
+ - Mandalay: Launch promotional campaigns targeting key demographics to increase foot traffic and sales.
+ - Yangon: Continue to maintain and grow sales in top product lines while promoting less popular categories like Health and beauty.
+ - Naypyitaw: Introduce new product lines or promote offerings to stimulate growth.
+
+#### 2.	Targeted Marketing Campaigns:
+ - Use gender-based marketing to promote Electronic Accessories to men and Fashion Accessories to women.
+ - Launch member loyalty programs to incentivize repeat purchases and higher transaction values.
+ - Improve Customer Satisfaction:
+ - Further promote Ewallet payments due to its positive impact on customer satisfaction.
+ - Address lower-rated experiences in certain branches by providing more staff during peak hours to improve customer service.
+
+#### 4.	Time-Based Promotions:
+ - Implement weekend-specific promotions and lunchtime offers to capitalize on peak sales hours.
+ - Offer discounts during weekday lulls to drive traffic and even out sales fluctuations.
+ - Bundling offers for underperforming products or discount it to improve sales and ATV. 
